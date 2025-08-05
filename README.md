@@ -1,2 +1,2 @@
 # PasswordGenerator
-Password Generator using pythin
+Password Generator using python
